@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Databases
-permalink: /Databases/
+permalink: /databases/
 ---
 
 This is the base post about databases.
