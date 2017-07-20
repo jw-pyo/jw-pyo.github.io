@@ -16,8 +16,9 @@
 title: Jungwoo Pyo
 email: jwpyo@kdb.snu.ac.kr
 description: > # this means to ignore newlines until "baseurl:"
-  Master's course in Petabyte Scale Memory Database Lab
-  Seoul National University
+  Master's course
+  Petabyte Scale Memory Database Lab
+  Seoul National University  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
