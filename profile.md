@@ -6,15 +6,17 @@ permalink: /profile/
 
 ## Education
 
-* 2017.03 - 현재    | M.S, Electrical & Computer Engineering in Seoul National University(In-memory Database Lab)
-* 2013.03 - 2017.02 | B.S, Electrical & Computer Engineering in Seoul National University
+* 2017.03 - 현재    , M.S, Electrical & Computer Engineering in Seoul National University(In-memory Database Lab)
+* 2013.03 - 2017.02 , B.S, Electrical & Computer Engineering in Seoul National University
 
 ## Career & Internship
 
-* 2018.03 - 현재    | 서울대학교 블록체인 학회 Decipher 1, 2기
-* 2016.07 - 2016.08 | LG전자 CTO부문 SW센터 PMO실 SDK part intern 
+* 2018.03 - 현재    , 서울대학교 블록체인 학회 Decipher 1, 2기
+* 2016.07 - 2016.08 , LG전자 CTO부문 SW센터 PMO실 SDK part intern 
 
 ## Experiences & Projects
+
+* 2018.8.24 - 8.25, 중국 상하이 Zhongan Insurance 해커톤 준우승(2nd prize)
 
 ## Skills
 
