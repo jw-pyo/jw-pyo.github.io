@@ -31,4 +31,9 @@ Database를 통한 data analytics 까지 수행
 [demo link](https://www.youtube.com/watch?v=EzoG1hWP9eA)
 
 다른 팀들의 발표는 주로 Dapp과 관련된 프로젝트가 많았는데, 그 속에서 우리 팀은 블록체인과 관련하여 systematic한 접근을 했기 때문에 더 돋보이지 않았나 생각된다. 난생 처음 해외에서 진행한 해커톤에서 이토록 좋은 결과를 얻을 수 있어 기분이 좋았고, 결과를 넘어서 좋은 경험을 했다고 생각한다.
+
+대회 결과는 우리 학교 학부 홈페이지에도 게시되었다.
+
+[Zhongan Prize](/files/2018-08-26/prize.png)
+[link](https://ee.snu.ac.kr/community/news?bm=v&bbsidx=47797)
  
