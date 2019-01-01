@@ -34,6 +34,6 @@ Database를 통한 data analytics 까지 수행
 
 대회 결과는 우리 학교 학부 홈페이지에도 게시되었다.
 
-[Zhongan Prize](/files/2018-08-26/prize.png)
+![Zhongan Prize](/files/2018-08-26/prize.png)
 [link](https://ee.snu.ac.kr/community/news?bm=v&bbsidx=47797)
  
