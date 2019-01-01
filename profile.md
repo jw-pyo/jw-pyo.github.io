@@ -16,7 +16,7 @@ permalink: /profile/
 
 ## Experiences & Projects
 
-* 2018.8.24 - 8.25, 중국 상하이 Zhongan Insurance 해커톤 준우승(2nd prize)
+* 2018.8.24 - 8.25, 중국 상하이 Zhongan Insurance 해커톤 준우승(2nd prize)[post](/_posts/2018-08-26/2018-08-26-zhongan_hackathon.markdown)
 
 ## Skills
 
