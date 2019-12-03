@@ -19,6 +19,9 @@ permalink: /profile/
 * 2020.02.07 - 02.12, AAAI 2020 학회 발표
 
 * 2019, Multi-Domain Networks for Object Detection in Road Environment
+    <p align="center">
+      <img src="/files/profile/example_mdnet.jpg" alt="mdnet" width="450"/>
+    </p>
     - Yolo-v3을 backbone network로 사용하여 도로의 여러 차량을 인식하는 muldi-domain object detection model 구축
     - network를 shared weight를 공유하는 multi-branch로 나누고, 각 branch를 road condition(weather, time) 별로 구분하여 train
     - [BDD100k](https://bair.berkeley.edu/blog/2018/05/30/bdd/) dataset 활용
