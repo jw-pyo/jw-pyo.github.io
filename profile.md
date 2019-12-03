@@ -25,10 +25,9 @@ permalink: /profile/
     - baseline(single-branch network)에 비해 mAP 향상
     - data preprocessing: python, core: python(Pytorch)
     - demo link: [https://youtu.be/CZ_VfzbysHA](https://youtu.be/CZ_VfzbysHA)
-    
-    ![mAP comparison between multi-domain network and single-domain network](/files/profile/mAP_mdnet.png)
-    <img src="/files/profile/mAP_mdnet.png" alt="mAP comparison between multi-domain network and single-domain network" width="150"/>
-
+    <p align="center">
+      <img src="/files/profile/mAP_mdnet.png" alt="mAP comparison between multi-domain network and single-domain network" width="450"/>
+    <\p>
 
 * 2018.08.24 - 08.25, Queryable blockchain-중국 상하이 Zhongan Insurance 해커톤 준우승(2nd prize)[(포스트)](/_posts/2018-08-26/2018-08-26-zhongan_hackathon.markdown)
     - demo link: [https://youtu.be/EzoG1hWP9eA](https://youtu.be/EzoG1hWP9eA)
@@ -40,9 +39,10 @@ permalink: /profile/
     - 시간, tagging count를 filtering하여 확인 가능
     - data processing: Python, visualization: Tableau
     - [subway demo](https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2/1?publish=yes)
-    - [bus demo](https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2_onlybus/1?publish=yes)
-    
-    ![example of visualization for smartcard:subway](/files/profile/smartcard_subway.png)
+    - [bus demo](https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2_onlybus/1?publish=yes)    
+    <p align="center">
+      <img src="/files/profile/smartcard_subway.png" alt="example of visualization for smartcard:subway" width=450"/>
+    </p>
 
 ## Skills & Experiences
 
