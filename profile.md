@@ -23,7 +23,7 @@ permalink: /profile/
     - [BDD100k](https://bair.berkeley.edu/blog/2018/05/30/bdd/) dataset 활용
     - baseline(single-branch network)에 비해 mAP 향상
     - data preprocessing: python, core: python(Pytorch)
-    ![mAP comparison between multi-domain network and single-domain network](/_files/profile/mAP_mdnet.png)
+    ![mAP comparison between multi-domain network and single-domain network](/files/profile/mAP_mdnet.png)
 * 2018.08.24 - 08.25, Queryable blockchain-중국 상하이 Zhongan Insurance 해커톤 준우승(2nd prize)[(포스트)](/_posts/2018-08-26/2018-08-26-zhongan_hackathon.markdown)
     - demo link(hyconhack demo): [https://img.youtube.com/watch?v=rn7apFy8x3M](https://www.youtube.com/watch?v=rn7apFy8x3M)
     - core(blockchain): C++11, network & client: Python, JavaScript
@@ -34,7 +34,7 @@ permalink: /profile/
     - data processing: Python, visualization: Tableau
     - [subway demo](https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2/1?publish=yes)
     - [bus demo](https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2_onlybus/1?publish=yes)
-    ![example of visualization for smartcard:subway](/_files/profile/smartcard_subway.png)
+    ![example of visualization for smartcard:subway](/files/profile/smartcard_subway.png)
 
 ## Skills & Experiences
 
