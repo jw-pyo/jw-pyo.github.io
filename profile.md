@@ -27,7 +27,7 @@ permalink: /profile/
     - demo link: [https://youtu.be/CZ_VfzbysHA](https://youtu.be/CZ_VfzbysHA)
     <p align="center">
       <img src="/files/profile/mAP_mdnet.png" alt="mAP comparison between multi-domain network and single-domain network" width="450"/>
-    <\p>
+    </p>
 
 * 2018.08.24 - 08.25, Queryable blockchain-중국 상하이 Zhongan Insurance 해커톤 준우승(2nd prize)[(포스트)](/_posts/2018-08-26/2018-08-26-zhongan_hackathon.markdown)
     - demo link: [https://youtu.be/EzoG1hWP9eA](https://youtu.be/EzoG1hWP9eA)
