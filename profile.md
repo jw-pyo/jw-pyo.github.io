@@ -28,6 +28,9 @@ permalink: /profile/
     <p align="center">
       <img src="/files/profile/mAP_mdnet.png" alt="mAP comparison between multi-domain network and single-domain network" width="450"/>
     </p>
+    <p align="center">
+      <em> ▲ mAP comparison between multi-domain network and single-domain network</em>
+    </p>
 
 * 2018.08.24 - 08.25, Queryable blockchain-중국 상하이 Zhongan Insurance 해커톤 준우승(2nd prize)[(포스트)](/_posts/2018-08-26/2018-08-26-zhongan_hackathon.markdown)
     - demo link: [https://youtu.be/EzoG1hWP9eA](https://youtu.be/EzoG1hWP9eA)
@@ -42,6 +45,9 @@ permalink: /profile/
     - [bus demo](https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2_onlybus/1?publish=yes)    
     <p align="center">
       <img src="/files/profile/smartcard_subway.png" alt="example of visualization for smartcard:subway" width="450"/>
+    </p>
+    <p align="center">
+      <em> ▲ example of crowd's subway trajactory visualization based on smartcard data </em>
     </p>
 
 ## Skills & Experiences
