@@ -41,7 +41,7 @@ permalink: /profile/
     - [subway demo](https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2/1?publish=yes)
     - [bus demo](https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2_onlybus/1?publish=yes)    
     <p align="center">
-      <img src="/files/profile/smartcard_subway.png" alt="example of visualization for smartcard:subway" width=450"/>
+      <img src="/files/profile/smartcard_subway.png" alt="example of visualization for smartcard:subway" width="450"/>
     </p>
 
 ## Skills & Experiences
