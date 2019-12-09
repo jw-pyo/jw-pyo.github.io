@@ -82,4 +82,6 @@ permalink: /profile/
 * Jungwoo Pyo, Joohyun Lee, Youngjune Park, Tien-Cuong Bui, Sang Kyun Cha, [*An Attention-Based Speaker Naming Method for Online Adaptation in Non-Fixed Scenarios*](http://arxiv.org/abs/1912.00649), AAAI 2020 Workshop on Interactive and Conversational Recommendation Systems(WICRS), Feb 2020, New York, USA.
 * [영지식 증명(zero-knowledge proof)에 관한 글](https://medium.com/decipher-media/zero-knowledge-proof-chapter-1-introduction-to-zero-knowledge-proof-zk-snarks-6475f5e9b17b) 
 
+## Download resume
 
+* [Resume download in pdf](/files/profile/resume.pdf)    
