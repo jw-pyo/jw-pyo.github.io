@@ -5,7 +5,7 @@ permalink: /profile/
 ---
 ## Profile
 
-![portrait](/files/profile/portrait.jpg =350)
+![portrait](/files/profile/portrait.jpg =350x)
 
 ## Education
 
