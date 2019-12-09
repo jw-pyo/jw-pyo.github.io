@@ -17,10 +17,10 @@ permalink: /profile/
 ## Projects
 
 * 2020.02.07 - 02.12, An Attention-Based Speaker Naming Method for Online Adaptation in Non-Fixed Scenarios(will be presented at *AAAI 2020 Workshop(WICRS)*)
-    <p align="center" padding="1em 0 1em 0">
+    <p align="center" padding="5px 0 5px 0">
       <img src="/files/profile/speaker_naming.png" alt="speaker naming" width="450" height="200"/>
     </p>
-    <p align="center" padding="1em 0 1em 0">
+    <p align="center" padding="0 0 5px 0">
       <img src="/files/profile/speaker_naming_architecture.png" alt="speaker naming architecture" width="450" height="200"/>
     </p>
     <p align="center">
@@ -41,7 +41,7 @@ permalink: /profile/
     - baseline(single-branch network)에 비해 mAP 향상
     - data preprocessing: python, core: python(Pytorch)
     - demo link: [https://youtu.be/CZ_VfzbysHA](https://youtu.be/CZ_VfzbysHA)
-    <p align="center" padding="1em 0 1em 0">
+    <p align="center" padding="5px 0 5px 0">
       <img src="/files/profile/mAP_mdnet.png" alt="mAP comparison between multi-domain network and single-domain network" width="450"/>
     </p>
     <p align="center">
@@ -59,7 +59,7 @@ permalink: /profile/
     - data processing: Python, visualization: Tableau
     - [subway demo](https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2/1?publish=yes)
     - [bus demo](https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2_onlybus/1?publish=yes)    
-    <p align="center" padding="1em 0 1em 0">
+    <p align="center" padding="5px 0 5px 0">
       <img src="/files/profile/smartcard_subway.png" alt="example of visualization for smartcard:subway" width="450"/>
     </p>
     <p align="center">
