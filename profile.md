@@ -3,6 +3,9 @@ layout: page
 title: Live As Greedy
 permalink: /profile/
 ---
+## Profile
+
+![portrait](/files/profile/portrait.jpg)
 
 ## Education
 
