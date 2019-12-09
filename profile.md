@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Profile
+title: Live As Greedy
 permalink: /profile/
 ---
 
@@ -16,10 +16,23 @@ permalink: /profile/
 
 ## Projects
 
-* 2020.02.07 - 02.12, AAAI 2020 학회 발표
-
-* 2019, Multi-Domain Networks for Object Detection in Road Environment
+* 2020.02.07 - 02.12, An Attention-Based Speaker Naming Method for Online Adaptation in Non-Fixed Scenarios(will be presented at *AAAI 2020 Workshop(WICRS)*)
+    <p align="center" padding="1em 0 1em 0">
+      <img src="/files/profile/speaker_naming.png" alt="speaker naming" width="450" height="200"/>
+    </p>
+    <p align="center" padding="1em 0 1em 0">
+      <img src="/files/profile/speaker_naming_architecture.png" alt="speaker naming architecture" width="450" height="200"/>
+    </p>
     <p align="center">
+      <em> ▲ Overall architecture of attention-based speaker naming method</em>
+    </p>
+    - 영화나 드라마에서 현재 말하고 있는 current speaker의 face를 localize하고, face-voice feature를 활용하여 identify하는 speaker naming task 수행하는 방식 제시
+    - training data를 이용하여 deep neural network의 gradient를 update하여 network를 fine-tuning하는 기존의 gradient-based method 방식과 달리, attention module을 이용하여 gradient update process 없이 prior knowledge와 target data 간의 similarity를 계산하고, similarity의 linear combination을 통한 target data의 identification을 수행하는 방법 제시
+    - 기존의 gradient-based method는 모델을 훈련시키기 위해 충분한 training data와 긴 training time이 소요되는 단점이 있었으나, 본 논문에서 제시한 방법을 통해 comparable한 accuracy를 유지하면서 model training time을 크게 단축시킴(10x-100x).
+    - gradient-based method에서 사용된 것보다 적은 수의 training data(5 face-voice pairs per ID)만을 이용하여 모델 구축 가능
+    - 모델이 deploy된 이후에 추가적으로 얻게 되는 새로운 knowledge를 attention module에 추가하여 knowledge base로 활용하는 online adaptation 가능
+* 2019, Multi-Domain Networks for Object Detection in Road Environment
+    <p align="center" padding="1em 0 1em 0">
       <img src="/files/profile/example_mdnet.png" alt="mdnet" width="450" height="200"/>
     </p>
     - Yolo-v3을 backbone network로 사용하여 도로의 여러 차량을 인식하는 muldi-domain object detection model 구축
@@ -28,7 +41,7 @@ permalink: /profile/
     - baseline(single-branch network)에 비해 mAP 향상
     - data preprocessing: python, core: python(Pytorch)
     - demo link: [https://youtu.be/CZ_VfzbysHA](https://youtu.be/CZ_VfzbysHA)
-    <p align="center">
+    <p align="center" padding="1em 0 1em 0">
       <img src="/files/profile/mAP_mdnet.png" alt="mAP comparison between multi-domain network and single-domain network" width="450"/>
     </p>
     <p align="center">
@@ -46,7 +59,7 @@ permalink: /profile/
     - data processing: Python, visualization: Tableau
     - [subway demo](https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2/1?publish=yes)
     - [bus demo](https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2_onlybus/1?publish=yes)    
-    <p align="center">
+    <p align="center" padding="1em 0 1em 0">
       <img src="/files/profile/smartcard_subway.png" alt="example of visualization for smartcard:subway" width="450"/>
     </p>
     <p align="center">
@@ -66,24 +79,7 @@ permalink: /profile/
 
 ## Publications
 
-* Jungwoo Pyo, Joohyun Lee, Youngjune Park, Tien-Cuong Bui, Sang Kyun Cha, [*An Attention-Based Speaker Naming Method for Online Adaptation in Non-Fixed Scenarios*](http://arxiv.org/abs/1912.00649), AAAI Workshop on Interactive and Conversational Recommendation Systems(WICRS), Feb 2020, New York, USA.
+* Jungwoo Pyo, Joohyun Lee, Youngjune Park, Tien-Cuong Bui, Sang Kyun Cha, [*An Attention-Based Speaker Naming Method for Online Adaptation in Non-Fixed Scenarios*](http://arxiv.org/abs/1912.00649), AAAI 2020 Workshop on Interactive and Conversational Recommendation Systems(WICRS), Feb 2020, New York, USA.
 * [영지식 증명(zero-knowledge proof)에 관한 글](https://medium.com/decipher-media/zero-knowledge-proof-chapter-1-introduction-to-zero-knowledge-proof-zk-snarks-6475f5e9b17b) 
 
-## Presentation
 
-
-## Interested in..
-
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
