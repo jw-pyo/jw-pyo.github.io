@@ -1,0 +1,17 @@
+.preview-page {margin-top: 8px !important;}  #readme > h3 {display:none !important;}
+
+.page {
+  padding: 2cm;
+  margin: auto;
+}
+
+.column {
+  float: left !important;
+  width: 50% !important;
+}
+
+.row:after {
+  content: ""; !important;
+  display: table !important;
+  clear: both !important;
+}
