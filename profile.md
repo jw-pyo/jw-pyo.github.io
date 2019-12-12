@@ -5,11 +5,9 @@ permalink: /profile/
 ---
 
 ## Profile
-<table>
-<tr>
 <div class="row">
   <div class="column">
-    <p padding="5px 0 5px 0">
+    <p>
       <img src="/files/profile/portrait.jpg" alt="portrait" width=250 />
     </p>
   </div>
