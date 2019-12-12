@@ -4,12 +4,10 @@ title: Profile
 permalink: /profile/
 ---
 
-## Profile
+## Info
 <div class="row">
   <div class="left_column" style="float:left width:40%">
-    <p>
-      <img src="/files/profile/portrait.jpg" alt="portrait" width=250 />
-    </p>
+    <img src="/files/profile/portrait.jpg" alt="portrait" width="250" />
   </div>
   <div class="right_column" style="float:right width:60%">
     - 표정우(Jungwoo Pyo)
