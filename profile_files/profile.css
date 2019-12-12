@@ -10,6 +10,16 @@
   width: 50% !important;
 }
 
+.left_column {
+  float: left !important;
+  width: 40% !important;
+}
+
+.right_column {
+  float: right !important;
+  width: 60% !important;
+}
+
 .row:after {
   content: ""; !important;
   display: table !important;
