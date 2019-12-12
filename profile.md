@@ -102,12 +102,8 @@ permalink: /profile/
 <ul>
   <li>Python(Tensorflow, Pytorch)</li>
   <li>C, C++</li>
-  <li>(Blockchain)Ethereum, Quorum</li>
-  <li>Solidity</li>
-  <li>Apache Spark</li>
   <li>(RDBMS)PostgreSQL, MySQL</li>
-  <li>(NoSQL)MongoDB</li>
-  <li>Tableau</li>
+  <li>(Blockchain)Ethereum, Quorum, Solidity</li>
 </ul>
 
 ## Publications
