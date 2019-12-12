@@ -6,12 +6,12 @@ permalink: /profile/
 
 ## Profile
 <div class="row">
-  <div class="column" style="width=50%">
+  <div class="left_column" style="float:left width:40%">
     <p>
       <img src="/files/profile/portrait.jpg" alt="portrait" width=250 />
     </p>
   </div>
-  <div class="column" style="width=50%">
+  <div class="right_column" style="float:right width:60%">
     - 표정우(Jungwoo Pyo)
     - 1994.05.12
     - Live As Greedy
@@ -112,6 +112,6 @@ permalink: /profile/
 ## Publications
 
 <ul>
-  <li>Jungwoo Pyo, Joohyun Lee, Youngjune Park, Tien-Cuong Bui, Sang Kyun Cha, <a href="http://arxiv.org/abs/1912.00649">*An Attention-Based Speaker Naming Method for Online Adaptation in Non-Fixed Scenarios*</a>, AAAI 2020 Workshop on Interactive and Conversational Recommendation Systems(WICRS), Feb 2020, New York, USA.</li>
+  <li>Jungwoo Pyo, Joohyun Lee, Youngjune Park, Tien-Cuong Bui, Sang Kyun Cha, <a href="http://arxiv.org/abs/1912.00649"><b>An Attention-Based Speaker Naming Method for Online Adaptation in Non-Fixed Scenarios</b></a>, AAAI 2020 Workshop on Interactive and Conversational Recommendation Systems(WICRS), Feb 2020, New York, USA.</li>
   <li><a href="https://medium.com/decipher-media/zero-knowledge-proof-chapter-1-introduction-to-zero-knowledge-proof-zk-snarks-6475f5e9b17b">영지식 증명(zero-knowledge proof)에 관한 글</a></li>
 
