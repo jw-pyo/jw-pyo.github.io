@@ -5,11 +5,11 @@ permalink: /profile/
 ---
 
 ## Info
-<div class="row">
-  <div class="left_column" style="float:left width:40%">
+<div class="row" style="display:flex">
+  <div class="left_column" style="flex:40%">
     <img src="/files/profile/portrait.jpg" alt="portrait" width="250" />
   </div>
-  <div class="right_column" style="float:right width:60%">
+  <div class="right_column" style="flex:60%">
     - 표정우(Jungwoo Pyo)
     - 1994.05.12
     - Live As Greedy
