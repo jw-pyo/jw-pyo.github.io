@@ -44,10 +44,10 @@ permalink: /profile/
 
 <ul><ul>
   <li>영화나 드라마에서 화자의 얼굴을 localize하고, face-voice feature embedding을 활용하여 화자의 ID를 식별하는 speaker naming task 수행</li>
-  <li>deep neural network의 gradient를 update하여 network weight를 fine-tuning하는 기존의 gradient-based method 방식과 달리, attention module을 이용하여 gradient update process 없이 prior knowledge와 target data 간의 similarity를 계산하고, similarity의 linear combination을 통한 target data의 identification을 수행하는 방법 제시</li>
-  <li>기존의 방식은 모델을 훈련시키기 위해 충분한 training data와 긴 training time이 소요되는 단점이 있었으나, 본 논문에서 제시한 방법을 통해 comparable한 accuracy를 유지하면서 model training time을 크게 단축시킴(10x-100x).</li>
+  <li>speaker naming task를 수행하는 기존의 gradient-based method 방식과 달리, attention module을 이용하여 gradient update process 없이 prior knowledge와 target data 간의 similarity의 linear combination을 통한 target data의 identification을 수행하는 방법 제시</li>
+  <li>기존의 방식은 모델을 훈련시키기 위해 충분한 training data와 긴 training time이 소요되는 단점이 있었으나, 본 논문에서 제시한 방법을 통해 비슷한 수준의 accuracy를 유지하면서 model training time을 크게 단축시킴(10x-100x).</li>
   <li>gradient-based method에서 사용된 것보다 적은 수의 training data(5 face-voice pairs per ID)만을 이용하여 모델 구축 가능</li>
-  <li>모델이 deploy된 이후에 추가적으로 얻게 되는 새로운 knowledge를 attention module에 추가하여 knowledge base로 활용하는 online adaptation 가능</li>
+  <li>모델이 배포된 이후에 추가적으로 얻게 되는 새로운 데이터를 attention module에 추가하여 knowledge base로 활용하는 online adaptation 가능</li>
 </ul></ul>
 
 * **2019, Multi-Domain Networks for Object Detection in Road Environment**
@@ -58,7 +58,7 @@ permalink: /profile/
 
 <ul><ul>
   <li>Yolo-v3을 backbone network로 사용하여 도로의 여러 차량을 인식하는 multi-domain object detection model 구축</li>
-  <li>network를 shared weight를 공유하는 multi-branch로 나누고, 각 branch를 road condition(weather, time) 별로 구분하여 train</li>
+  <li>shared weight를 공유하는 multi-branch network로 구성하고, 각 branch를 road condition(weather, time)에 dependent하게 훈련</li>
   <li><a href="https://bair.berkeley.edu/blog/2018/05/30/bdd/">BDD100k</a> dataset 활용</li>
   <li>baseline(single-branch network)에 비해 mAP 향상</li>
   <li>data preprocessing: python, core: python(Pytorch)</li>
@@ -83,8 +83,8 @@ permalink: /profile/
 
 <ul><ul>
   <li>2016.06.17(Sat) 하루 동안의 수도권 교통카드 tagging data 활용(about 10 million rows)</li>
-  <li>subway, bus를 이용한 승객들의 이동 방향 및 수를 시각화</li>
-  <li>시간, tagging count를 filtering하여 확인 가능</li>
+  <li>지하철, 버스를 이용한 승객들의 이동 방향 및 수를 시각화</li>
+  <li>시간, tagging count를 필터링하여 확인 가능</li>
   <li>data processing: Python, visualization: Tableau</li>
   <li><a href="https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2/1?publish=yes">[subway demo]</a></li>
   <li><a href="https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2_onlybus/1?publish=yes">[bus demo]</a></li>
