@@ -87,7 +87,7 @@ permalink: /profile/
   <li>시간, tagging count를 filtering하여 확인 가능</li>
   <li>data processing: Python, visualization: Tableau</li>
   <li><a href="https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2/1?publish=yes">[subway demo]</a></li>
-  <li>[bus demo](https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2_onlybus/1?publish=yes)</li>
+  <li><a href="https://public.tableau.com/profile/.3518#!/vizhome/bus_v0_2_onlybus/1?publish=yes">[bus demo]</a></li>
   <p align="center" padding="5px 0 5px 0">
     <img src="/files/profile/smartcard_subway.png" alt="example of visualization for smartcard:subway" width="450"/>
   </p>
@@ -112,6 +112,6 @@ permalink: /profile/
 ## Publications
 
 <ul>
-  <li>Jungwoo Pyo, Joohyun Lee, Youngjune Park, Tien-Cuong Bui, Sang Kyun Cha, [*An Attention-Based Speaker Naming Method for Online Adaptation in Non-Fixed Scenarios*](http://arxiv.org/abs/1912.00649), AAAI 2020 Workshop on Interactive and Conversational Recommendation Systems(WICRS), Feb 2020, New York, USA.</li>
-  <li>[영지식 증명(zero-knowledge proof)에 관한 글](https://medium.com/decipher-media/zero-knowledge-proof-chapter-1-introduction-to-zero-knowledge-proof-zk-snarks-6475f5e9b17b) </li>
+  <li>Jungwoo Pyo, Joohyun Lee, Youngjune Park, Tien-Cuong Bui, Sang Kyun Cha, <a href="http://arxiv.org/abs/1912.00649">*An Attention-Based Speaker Naming Method for Online Adaptation in Non-Fixed Scenarios*</a>, AAAI 2020 Workshop on Interactive and Conversational Recommendation Systems(WICRS), Feb 2020, New York, USA.</li>
+  <li><a href="https://medium.com/decipher-media/zero-knowledge-proof-chapter-1-introduction-to-zero-knowledge-proof-zk-snarks-6475f5e9b17b">영지식 증명(zero-knowledge proof)에 관한 글</a></li>
 
