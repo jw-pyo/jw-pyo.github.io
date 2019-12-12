@@ -10,9 +10,11 @@ permalink: /profile/
     <img src="/files/profile/portrait.jpg" alt="portrait" width="250" />
   </div>
   <div class="right_column" style="flex:60%">
-    - 표정우(Jungwoo Pyo)
-    - 1994.05.12
-    - Live As Greedy
+    <p style="font-size:20px">표정우(Jungwoo Pyo)</p>
+    <p style="font-size:15px">
+      1994.05.12<br /><br /><br />
+      새로운 것에 대한 배움을 즐거움으로 삼고 있는 Machine Learning Engineer입니다.<br />
+      Live As Greedy: local optimal을 선택하다 보면 결국 global optimal에 도달하는 greedy algorithm의 풀이 방식처럼, 현재의 위치에서 최선을 다하면 결국 원하는 목표에 도달할 수 있다는 motto를 가지며 생활합니다.</p>
   </div>
 </div>
 
