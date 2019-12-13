@@ -13,6 +13,8 @@ permalink: /profile/
     <p style="font-size:20px">표정우(Jungwoo Pyo)</p>
     <p style="font-size:15px">
       1994.05.12<br />
+      E-mail: wjddn1801@snu.ac.kr<br />
+      H.P.  : +82-10-2681-1137<br />
       Github: <a href="https://github.com/jw-pyo">https://github.com/jw-pyo</a><br />
       Homepage: <a href="https://jw-pyo.github.io">https://jw-pyo.github.io</a><br /><br />
       Live As Greedy: local optimal을 선택하다 보면 결국 global optimal에 도달하는 greedy algorithm의 풀이 방식처럼, 현재의 위치에서 최선을 다하면 결국 원하는 목표에 도달할 수 있다는 motto를 가지며 새로운 것에 대한 배움을 즐기는 엔지니어입니다.</p>
